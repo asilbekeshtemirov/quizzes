@@ -1,0 +1,18 @@
+[
+  {
+    "title": "O'zbekiston poytaxti",
+    "answers": [
+      {
+        "answer_id": 1,
+        "answer_title": "Toshkent",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2,
+        "answer_title": "Samarqand",
+        "is_correct": false
+      }
+    ],
+    "id": 1
+  }
+]
